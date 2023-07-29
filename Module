@@ -1,0 +1,8 @@
+ `import turtle
+turtle.reset()
+t=turtleTuetle()
+t.speed(0)
+for i in range(799);
+    turtle.forward(i)
+    turtle. left(i) `
+это не всё но мне лень
